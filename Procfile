@@ -1,1 +1,1 @@
-web: gunicorn reake.wsgi --log-file -
+web: gunicorn reakeApp.wsgi --log-file -
